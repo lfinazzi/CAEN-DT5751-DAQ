@@ -32,7 +32,7 @@ Each acquisition saves one file per channel used. The data format for each event
   3. fine timetag - 2B
   4. charge short - 2B
   5. charge long - 2B
-  6. baseline 2B
+  6. baseline - 2B
   7. pileup rejection flag - 2B
   8. All waveform samples (if any) - 2B per sample
 
