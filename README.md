@@ -18,7 +18,7 @@ Depending on the user platform (and the system USB port config), the function CA
 
 When creating a makefile, it is necessary to include the path where the CAENDigitizer library was downloaded.
 
-# IMPORTANT:
+# IMPORTANT
 
   1. For the code to run, you need to create a folder "data" in the source file directory.
   2. When running individual channel measurements (CH0 || CH1), both channels need to be activated in the config file.
